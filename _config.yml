@@ -2,17 +2,17 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://gasol.github.com
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+author: Gasol Wu
+simple_search: http://google.com.tw/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: gasol.wu@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
